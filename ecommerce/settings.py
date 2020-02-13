@@ -27,7 +27,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['716cdb699eb04c999194ea3ac3a6c1e5.vfs.cloud9.eu-west-1.amazonaws.com']
+ALLOWED_HOSTS = ['716cdb699eb04c999194ea3ac3a6c1e5.vfs.cloud9.eu-west-1.amazonaws.com', 'alessio-ecommerce.herokuapp.com']
 
 
 # Application definition
