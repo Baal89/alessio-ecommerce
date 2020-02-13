@@ -16,6 +16,3 @@ six==1.13.0
 stripe==2.42.0
 Pillow~=4.3.0
 
-=========
-
->>>>>>>>> local version
